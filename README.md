@@ -14,7 +14,7 @@
     - [Essential Characteristics of Cloud Computing](https://github.com/celikaylin/cloud-computing/blob/main/cloud-computing.md#essentials-characteristics-of-cloud-computing)
 
      - [Cloud Service Models](https://github.com/celikaylin/cloud-computing/blob/main/cloud-computing.md#cloud-service-models)
-     
+
      - [Cloud Deployment Models](https://github.com/celikaylin/cloud-computing/blob/main/cloud-computing.md#cloud-deployment-models)
 
    
