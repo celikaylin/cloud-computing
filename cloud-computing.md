@@ -2,7 +2,7 @@
 
 Cloud computing is out there not on premises. **Wrong** because commercial facities are off premises and actually they are not cloud and private cloud deployments on primeses (we will see next topics)
 
-Here is the NIST defination. (You can checj NIST from [here](https://www.nist.gov/))
+Here is the NIST definition. (You can check NIST doc from [here][(https://www.nist.gov/](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf))
 
 *Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction. This cloud model is composed of five essential characteristics, three service models, and four deployment models.*
 
